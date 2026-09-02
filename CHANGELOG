@@ -127,3 +127,7 @@
 
 * Fix column indixes to consistently start at 1
 * Fix algorithm of context creation if inside comment/annotation
+
+=0.12.0
+
+* Flush the writer at the end of Serializer#serialize
