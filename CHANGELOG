@@ -127,3 +127,8 @@
 
 * Fix column indixes to consistently start at 1
 * Fix algorithm of context creation if inside comment/annotation
+
+=0.12.0
+
+* Add support for Ruby 4.0
+* Require rgen 0.11.0
