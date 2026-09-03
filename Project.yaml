@@ -1,5 +1,5 @@
 name: rtext
-version: 0.11.1
+version: 0.12.0
 git: https://github.com/mthiede/rtext.git
 summary: Ruby Textual Modelling
 email: martin dot thiede at gmx de
@@ -8,7 +8,7 @@ description: RText can be used to derive textual languages from an RGen metamode
 authors: [Martin Thiede]
 dependencies:
   http://rubygems.org:
-    - {name: rgen,     version: ['>= 0.10.0', '< 0.11']}
+    - {name: rgen,     version: ['>= 0.11.0', '< 0.12']}
     - {name: filelock, version: ['>= 1.1.1', '< 1.2']}
     - {name: rake,               version: ['>= 13.0.0', '< 14.0'],    development: true}
     - {name: minitest,           version: ['>= 5.20.0', '< 6.0'],     development: true}
